@@ -1,7 +1,7 @@
 --
 --
--- fromMilitext.lua: Aseprite script for converting 
---      militext image to human readable form.
+-- fromMillitext.lua: Aseprite script for converting 
+--      millitext image to human readable form.
 --
 --  Author: Malik Enes Safak
 --   Email: e.maliksafak@gmail.com

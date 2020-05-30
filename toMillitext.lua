@@ -1,7 +1,7 @@
 --
 --
--- toMilitext.lua: Aseprite script for converting 
---         strings to militext image.
+-- toMillitext.lua: Aseprite script for converting 
+--         strings to millitext image.
 --
 --  Author: Malik Enes Safak
 --   Email: e.maliksafak@gmail.com
