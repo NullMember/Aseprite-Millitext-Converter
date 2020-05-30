@@ -1,3 +1,5 @@
+![millitext](./millitext.png?raw=true)
+
 # Aseprite-Millitext-Converter
 Aseprite scripts for converting strings to millitext or millitext image to human readable form
 
